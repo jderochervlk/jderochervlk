@@ -14,11 +14,9 @@ Stack: ReScript, Deno, Fresh, Plex API
 
 ## What I work with
 
-- **Languages:** TypeScript, ReScript, JavaScript
-- **Runtimes:** Deno, Node.js
-- **Paradigms:** Functional Programming, Type-Driven Development
-- **Tools:** Parcel, Vite, ast-grep
-- **Interests:** Developer tooling, ESM, functional abstractions, type safety
+- **Languages:** ReScript, TypeScript
+- **Tools:** [React](https://react.dev/), [React Router](https://reactrouter.com/), [Vite](https://vite.dev/), [Vitest](https://vitest.dev/)
+- **Interests:** Developer experience, functional programming, domain-driven design, type safety, performance
 
 ## Current focus
 
