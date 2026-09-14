@@ -20,15 +20,14 @@ Stack: ReScript, Deno, Fresh, Plex API
 
 ## Current focus
 
-I'm actively working on making functional programming more accessible in the TypeScript ecosystem. My projects focus on:
+I'm actively working on making functional programming more accessible in the JavaScript ecosystem. My projects focus on:
 
 - Creating lightweight, practical FP libraries that are easy to adopt
-- Building ReScript tooling and bindings for modern JavaScript runtimes
+- Improving the developer experience for ReScript by working on documentation, tooling, and libraries
 - Exploring better developer experiences through type safety and functional patterns
-- Contributing to the Deno ecosystem
 
 ## Links
 
 - GitHub: [@jderochervlk](https://github.com/jderochervlk)
-- NPM: [@jvlk](https://www.npmjs.com/~jvlk)
+- NPMX: [@jvlk](https://npmx.dev/~jvlk)
 - JSR: [@jvlk](https://jsr.io/@jvlk)
